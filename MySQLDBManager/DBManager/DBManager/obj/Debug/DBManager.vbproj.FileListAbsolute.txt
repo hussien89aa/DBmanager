@@ -1,0 +1,20 @@
+C:\Users\hussien\Documents\Visual Studio 2010\Projects\MySQLDBManager\DBManager\DBManager\bin\Debug\DBManager.dll
+C:\Users\hussien\Documents\Visual Studio 2010\Projects\MySQLDBManager\DBManager\DBManager\bin\Debug\DBManager.pdb
+C:\Users\hussien\Documents\Visual Studio 2010\Projects\MySQLDBManager\DBManager\DBManager\bin\Debug\DBManager.xml
+C:\Users\hussien\Documents\Visual Studio 2010\Projects\MySQLDBManager\DBManager\DBManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hussien\Documents\Visual Studio 2010\Projects\MySQLDBManager\DBManager\DBManager\obj\Debug\DBManager.Resources.resources
+C:\Users\hussien\Documents\Visual Studio 2010\Projects\MySQLDBManager\DBManager\DBManager\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\hussien\Documents\Visual Studio 2010\Projects\MySQLDBManager\DBManager\DBManager\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\hussien\Documents\Visual Studio 2010\Projects\MySQLDBManager\DBManager\DBManager\obj\Debug\DBManager.dll
+C:\Users\hussien\Documents\Visual Studio 2010\Projects\MySQLDBManager\DBManager\DBManager\obj\Debug\DBManager.xml
+C:\Users\hussien\Documents\Visual Studio 2010\Projects\MySQLDBManager\DBManager\DBManager\obj\Debug\DBManager.pdb
+F:\DBManager\MySQLDBManager\DBManager\DBManager\bin\Debug\DBManager.dll
+F:\DBManager\MySQLDBManager\DBManager\DBManager\bin\Debug\DBManager.pdb
+F:\DBManager\MySQLDBManager\DBManager\DBManager\bin\Debug\DBManager.xml
+F:\DBManager\MySQLDBManager\DBManager\DBManager\obj\Debug\ResolveAssemblyReference.cache
+F:\DBManager\MySQLDBManager\DBManager\DBManager\obj\Debug\DBManager.Resources.resources
+F:\DBManager\MySQLDBManager\DBManager\DBManager\obj\Debug\GenerateResource.read.1.tlog
+F:\DBManager\MySQLDBManager\DBManager\DBManager\obj\Debug\GenerateResource.write.1.tlog
+F:\DBManager\MySQLDBManager\DBManager\DBManager\obj\Debug\DBManager.dll
+F:\DBManager\MySQLDBManager\DBManager\DBManager\obj\Debug\DBManager.xml
+F:\DBManager\MySQLDBManager\DBManager\DBManager\obj\Debug\DBManager.pdb

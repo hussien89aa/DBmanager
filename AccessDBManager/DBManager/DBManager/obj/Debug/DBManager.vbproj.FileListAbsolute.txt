@@ -1,0 +1,20 @@
+C:\Users\hussien\Documents\Visual Studio 2010\Projects\AccessDBManager\DBManager\DBManager\bin\Debug\DBManager.dll
+C:\Users\hussien\Documents\Visual Studio 2010\Projects\AccessDBManager\DBManager\DBManager\bin\Debug\DBManager.pdb
+C:\Users\hussien\Documents\Visual Studio 2010\Projects\AccessDBManager\DBManager\DBManager\bin\Debug\DBManager.xml
+C:\Users\hussien\Documents\Visual Studio 2010\Projects\AccessDBManager\DBManager\DBManager\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hussien\Documents\Visual Studio 2010\Projects\AccessDBManager\DBManager\DBManager\obj\Debug\DBManager.Resources.resources
+C:\Users\hussien\Documents\Visual Studio 2010\Projects\AccessDBManager\DBManager\DBManager\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\hussien\Documents\Visual Studio 2010\Projects\AccessDBManager\DBManager\DBManager\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\hussien\Documents\Visual Studio 2010\Projects\AccessDBManager\DBManager\DBManager\obj\Debug\DBManager.dll
+C:\Users\hussien\Documents\Visual Studio 2010\Projects\AccessDBManager\DBManager\DBManager\obj\Debug\DBManager.xml
+C:\Users\hussien\Documents\Visual Studio 2010\Projects\AccessDBManager\DBManager\DBManager\obj\Debug\DBManager.pdb
+F:\DBManager\AccessDBManager\DBManager\DBManager\bin\Debug\DBManager.dll
+F:\DBManager\AccessDBManager\DBManager\DBManager\bin\Debug\DBManager.pdb
+F:\DBManager\AccessDBManager\DBManager\DBManager\bin\Debug\DBManager.xml
+F:\DBManager\AccessDBManager\DBManager\DBManager\obj\Debug\ResolveAssemblyReference.cache
+F:\DBManager\AccessDBManager\DBManager\DBManager\obj\Debug\DBManager.Resources.resources
+F:\DBManager\AccessDBManager\DBManager\DBManager\obj\Debug\GenerateResource.read.1.tlog
+F:\DBManager\AccessDBManager\DBManager\DBManager\obj\Debug\GenerateResource.write.1.tlog
+F:\DBManager\AccessDBManager\DBManager\DBManager\obj\Debug\DBManager.dll
+F:\DBManager\AccessDBManager\DBManager\DBManager\obj\Debug\DBManager.xml
+F:\DBManager\AccessDBManager\DBManager\DBManager\obj\Debug\DBManager.pdb
